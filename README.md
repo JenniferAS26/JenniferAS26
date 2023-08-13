@@ -14,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferAS26&layout=compact&theme=ayu-light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=JenniferAS26&theme=ayu-light&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=JenniferAS26&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
 
