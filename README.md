@@ -9,6 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferAS26&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JenniferAS26&theme=dark&background=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JenniferAS26&theme=dark&background=DAFDBA)](https://git.io/streak-stats)
 
 
