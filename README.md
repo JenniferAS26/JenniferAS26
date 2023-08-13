@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my hobbies
 - 📫 How to reach me: jenniferalarconserna@gmail.com
 - 😄 Pronouns: She/her
-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferAS26&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
