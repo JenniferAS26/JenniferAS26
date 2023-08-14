@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Angular
-- 💬 Ask me about my hobbies
+- :telescope: I’m Frontend developer and I working building web applications.
+  
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferas26/)
-- 😄 Pronouns: She/her
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
