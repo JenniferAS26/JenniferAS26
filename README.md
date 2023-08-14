@@ -1,4 +1,4 @@
-### Hi there 👋
+### :woman_technologist: About Me :
 
 - :telescope: I’m Frontend developer and I working building web applications.
   
