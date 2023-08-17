@@ -13,7 +13,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JenniferAS26&theme=ayu-light)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferAS26&layout=compact&theme=ayu-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
